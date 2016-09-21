@@ -1,0 +1,24 @@
+{
+  "name": "eqeq",
+  "version": "0.1.0",
+  "description": "Use == without lint errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graingert/eqeq.git"
+  },
+  "keywords": [
+    "eqeq",
+    "eslint",
+    "=="
+  ],
+  "author": "Thomas Grainger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graingert/eqeq/issues"
+  },
+  "homepage": "https://github.com/graingert/eqeq#readme"
+}
